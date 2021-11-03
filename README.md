@@ -1,2 +1,6 @@
 # IPL Dashboard
-[IPL Dashboard.pdf](https://github.com/bimalbsp/IPL---2021-Dashboard/files/7465803/IPL.Dashboard.pdf)
+Join my Linkedin network @Bimal Subhasis to go through the video and PBIX file. 
+  Link : https://www.linkedin.com/in/bimal-subhasis-a766b076/
+  
+Cheers,
+Bimal
